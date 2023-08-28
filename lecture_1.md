@@ -17,7 +17,8 @@ Date: Aug 28, 2023
 
 - When a lot of data is processed returns some details which are called "information"
 - It is created in the form of data.
-- [Diagram]
+
+![Diagram](https://github.com/preetsuthar17/basic-DSA-notes/assets/75468116/50db56ac-6411-45eb-97cd-9e7f0e87e63b)
 
 ### Cell
 
@@ -37,7 +38,7 @@ The specific location in memory where data can be stored is called a "Cell".
 
 - Collection of records
 
-[Diagram about college record]
+![Diagram](https://github.com/preetsuthar17/basic-DSA-notes/assets/75468116/53cfecb2-7f4c-49f7-bc35-ae74c3deaa6e)
 
 ## Advantages of Data Structure
 
@@ -72,7 +73,7 @@ Let's see types of data structure without deep diving, into the basics.
    - For example, Tree, Graph.
 5. Homogeneous data structure:
    - Type of data structure where data is stored with similar types of data.
-   - For example,. Arrays.
+   - For example, Arrays.
 6. Non-Homogeneous structure:
    - Type of data structure where the datatype of data doesn't need to be similar to Homogeneous.
    - For example, Structure, Class.
