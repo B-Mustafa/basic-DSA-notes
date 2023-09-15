@@ -29,7 +29,7 @@
       - While loop
       - For loop
     - Example:
-      - Repeat while (condition_
+      - Repeat while (condition)
 
 7. Goto statement:
     - This goto statement causes unconditional transfer of control to the step referenced.
